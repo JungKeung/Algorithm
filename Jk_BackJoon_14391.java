@@ -7,7 +7,7 @@ import java.util.StringTokenizer;
 
 /**
  * https://www.acmicpc.net/problem/14391
- *  fail
+ *  success!
  */
 
 public class Jk_BackJoon_14391 {
