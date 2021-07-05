@@ -6,6 +6,10 @@ import java.io.BufferedWriter;
 import java.io.OutputStreamWriter;
 import java.util.LinkedList;
 
+/**
+ * https://www.acmicpc.net/problem/1967
+ * fail
+*/
 public class Jk_BackJoon_1967{
     public static boolean visit[];
     public static int n, maxDist;
